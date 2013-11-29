@@ -1,8 +1,9 @@
 [
-  "redis-brain.coffee",
+  "file-brain.coffee",
   "shipit.coffee",
   "jenkins.coffee",
   "stallman.coffee",
   "grumpycat.coffee",
-  "trolololo.coffee"
+  "trolololo.coffee",
+  "git-help.coffee"
 ]
