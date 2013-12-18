@@ -24,7 +24,9 @@
     "hubot-scripts": ">= 2.5.7",
     "hubot-hipchat": "~2.5.1-5",
     "jquery": "1.8.3",
-    "jsdom": "0.8.8"
+    "jsdom": "0.8.8",
+    "htmlparser": "1.7.6",
+    "soupselect": "0.2.0"
   },
   "engines": {
     "node": ">= 0.8.x",
