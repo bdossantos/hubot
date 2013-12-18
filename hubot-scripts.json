@@ -16,5 +16,6 @@
   "isup.coffee",
   "dealwithit.coffee",
   "phpdoc.coffee",
-  "9gag.coffee"
+  "9gag.coffee",
+  "chess.coffee"
 ]

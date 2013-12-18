@@ -26,7 +26,8 @@
     "jquery": "1.8.3",
     "jsdom": "0.8.8",
     "htmlparser": "1.7.6",
-    "soupselect": "0.2.0"
+    "soupselect": "0.2.0",
+    "chess": "0.1.5"
   },
   "engines": {
     "node": ">= 0.8.x",
