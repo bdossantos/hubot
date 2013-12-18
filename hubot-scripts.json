@@ -14,5 +14,6 @@
   "gorbypuff.coffee",
   "haters.coffee",
   "isup.coffee",
-  "dealwithit.coffee"
+  "dealwithit.coffee",
+  "phpdoc.coffee"
 ]
