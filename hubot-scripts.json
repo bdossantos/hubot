@@ -1,5 +1,5 @@
 [
-  "file-brain.coffee",
+  "redis-brain.coffee",
   "shipit.coffee",
   "jenkins.coffee",
   "stallman.coffee",
