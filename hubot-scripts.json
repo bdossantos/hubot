@@ -17,5 +17,6 @@
   "dealwithit.coffee",
   "phpdoc.coffee",
   "9gag.coffee",
-  "chess.coffee"
+  "chess.coffee",
+  "reload.coffee"
 ]
