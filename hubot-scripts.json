@@ -20,5 +20,6 @@
   "chess.coffee",
   "reload.coffee",
   "update.coffee",
-  "wikipedia.coffee"
+  "wikipedia.coffee",
+  "hello.coffee"
 ]
