@@ -19,5 +19,6 @@
   "9gag.coffee",
   "chess.coffee",
   "reload.coffee",
-  "update.coffee"
+  "update.coffee",
+  "wikipedia.coffee"
 ]
