@@ -1,8 +1,17 @@
-# Description:
+# Description
+#   Play PoPopo !
+#
+# Dependencies:
+#   mpg321 (apt-get install mpg321)
+#
+# Configuration:
+#   none
 #
 # Commands:
-#   hubot popopo - Return popopo
-
+#   popopo
+#
+# Author:
+#   https://github.com/bdossantos
 
 {spawn, exec}  = require 'child_process'
 
