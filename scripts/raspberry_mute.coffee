@@ -37,3 +37,8 @@ module.exports = (robot) ->
   robot.hear /raspberry unmute/i, (msg) ->
     set_amixer 'unmute'
     msg.reply 'unmute !'
+
+  robot.hear /raspberry volume (.*)/i, (msg) ->
+    volume = msg.match[1] or 0
+    set_amixer volume + '%'
+    msg.reply 'set the volume to ' + volume + '%'
