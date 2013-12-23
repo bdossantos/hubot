@@ -21,5 +21,6 @@
   "reload.coffee",
   "update.coffee",
   "wikipedia.coffee",
-  "hello.coffee"
+  "hello.coffee",
+  "remind.coffee"
 ]
