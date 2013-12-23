@@ -23,8 +23,10 @@ set_amixer = (state) ->
   exec cmd, (err, stdout, stderr) ->
     if err
       output = "I couldn't exec " + cmd
+      console.log(output)
     else
       output = "exec : " + cmd
+      console.log(output)
     return output
 
 module.exports = (robot) ->
