@@ -22,6 +22,8 @@ goats = [
 
 module.exports = (robot) ->
   robot.hear /yelling goat/i, (msg)->
+    msg.reply 'http://www.youtube.com/watch?v=PpccpglnNf0'
+
     cmd = 'mpg321 ' + msg.random goats
     exec cmd, (err, stdout, stderr) ->
       if err
