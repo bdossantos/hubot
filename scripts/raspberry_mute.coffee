@@ -34,6 +34,6 @@ module.exports = (robot) ->
     set_amixer 'mute'
     msg.reply 'mute !'
 
-  robot.hear /raspberry unmunte/i, (msg) ->
+  robot.hear /raspberry unmute/i, (msg) ->
     set_amixer 'unmute'
     msg.reply 'unmute !'
