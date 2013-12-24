@@ -23,5 +23,6 @@
   "wikipedia.coffee",
   "hello.coffee",
   "remind.coffee",
-  "plus_one.coffee"
+  "plus_one.coffee",
+  "hackernews.coffee"
 ]
