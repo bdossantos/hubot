@@ -8,7 +8,9 @@
 #   none
 #
 # Commands:
-#   popopo
+#   raspberry mute
+#   raspberry unmute
+#   raspberry volume <integer>
 #
 # Author:
 #   https://github.com/bdossantos
