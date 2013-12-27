@@ -26,5 +26,6 @@
   "remind.coffee",
   "plus_one.coffee",
   "hackernews.coffee",
-  "uptime.coffee"
+  "uptime.coffee",
+  "announce.coffee"
 ]
