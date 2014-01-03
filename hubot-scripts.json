@@ -29,5 +29,6 @@
   "uptime.coffee",
   "announce.coffee",
   "http-post-say.coffee",
-  "ambush.coffee"
+  "ambush.coffee",
+  "ip.coffee"
 ]
