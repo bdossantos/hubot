@@ -28,5 +28,6 @@
   "hackernews.coffee",
   "uptime.coffee",
   "announce.coffee",
-  "http-post-say.coffee"
+  "http-post-say.coffee",
+  "ambush.coffee"
 ]
