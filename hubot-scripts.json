@@ -30,5 +30,6 @@
   "announce.coffee",
   "http-post-say.coffee",
   "ambush.coffee",
-  "ip.coffee"
+  "ip.coffee",
+  "graphite.coffee"
 ]
