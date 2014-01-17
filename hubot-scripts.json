@@ -31,5 +31,7 @@
   "http-post-say.coffee",
   "ambush.coffee",
   "ip.coffee",
-  "graphite.coffee"
+  "graphite.coffee",
+  "responders.coffee",
+  "eardropping.coffee"
 ]
