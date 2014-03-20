@@ -20,9 +20,9 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
-    "hubot": ">= 2.7.1",
-    "hubot-scripts": ">= 2.5.8",
-    "hubot-hipchat": "~2.5.1-5",
+    "hubot": "2.7.2",
+    "hubot-scripts": "2.5.11",
+    "hubot-hipchat": "2.6.4",
     "jquery": "1.8.3",
     "jsdom": "0.8.8",
     "htmlparser": "1.7.6",
