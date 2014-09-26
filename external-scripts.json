@@ -2,5 +2,6 @@
   "hubot-devops-reactions",
   "hubot-thruk",
   "hubot-cron",
-  "papertrail-hubot"
+  "papertrail-hubot",
+  "hubot-calculator"
 ]
