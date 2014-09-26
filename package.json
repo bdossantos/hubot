@@ -36,7 +36,19 @@
     "hubot-thruk": ">= 1.0.0",
     "hubot-cron": ">= 0.2.0",
     "papertrail-hubot": "git://github.com/papertrail/papertrail-hubot.git",
-    "hubot-calculator": ">= 0.4.0"
+    "hubot-calculator": ">= 0.4.0",
+    "hubot-standup-alarm": "*",
+    "hubot-help": "*",
+    "hubot-mute": "*",
+    "hubot-youtube": "*",
+    "hubot-google-images": "*",
+    "hubot-pugme": "*",
+    "hubot-shipit": "*",
+    "hubot-seen": "*",
+    "hubot-reaction": "*",
+    "hubot-explainshell": "*",
+    "hubot-9gag": "*",
+    "hubot-victory": "*"
   },
   "engines": {
     "node": ">= 0.8.x",

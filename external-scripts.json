@@ -3,5 +3,17 @@
   "hubot-thruk",
   "hubot-cron",
   "papertrail-hubot",
-  "hubot-calculator"
+  "hubot-calculator",
+  "hubot-standup-alarm",
+  "hubot-help",
+  "hubot-mute",
+  "hubot-youtube",
+  "hubot-google-images",
+  "hubot-pugme",
+  "hubot-shipit",
+  "hubot-seen",
+  "hubot-reaction",
+  "hubot-explainshell",
+  "hubot-9gag",
+  "hubot-victory"
 ]
