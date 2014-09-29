@@ -14,5 +14,6 @@
   "hubot-reaction",
   "hubot-explainshell",
   "hubot-9gag",
-  "hubot-victory"
+  "hubot-victory",
+  "hubot-help"
 ]
