@@ -16,5 +16,6 @@
   "hubot-explainshell",
   "hubot-9gag",
   "hubot-victory",
-  "hubot-help"
+  "hubot-help",
+  "hubot-pagerduty-github"
 ]

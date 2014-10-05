@@ -49,7 +49,8 @@
     "hubot-reaction": "*",
     "hubot-explainshell": "*",
     "hubot-9gag": "*",
-    "hubot-victory": "*"
+    "hubot-victory": "*",
+    "hubot-pagerduty-github": "*"
   },
   "engines": {
     "node": ">= 0.8.x",
