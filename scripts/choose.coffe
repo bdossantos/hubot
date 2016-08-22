@@ -1,0 +1,22 @@
+# Description:
+#   pick someone at random besides myself
+#
+# Commands:
+#   hubot choose
+#
+# Examples:
+#   hubot choose
+
+module.exports = (robot) ->
+
+
+  robot.respond /^choose$/i, (msg) ->
+    aRandomStuff = ['Make me proud !','I am counting on you','You have to believe in yourself','Do not disappoint me'];
+
+    if users.length is 1
+        user = users[0]
+    else
+      user = users[Math.floor(Math.random()*users.length)];
+
+    msg.send 'I choose #{name} for this task.';
+    msg.send msg.random aRandomStuff;
